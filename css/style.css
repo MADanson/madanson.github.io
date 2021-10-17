@@ -50,7 +50,7 @@ hr {
 
 .nav-item {
     font-size: 120%;
-    font-weight: 400;
+    font-weight: 200;
 }
 
 a.nav {
@@ -111,4 +111,12 @@ div.date {
 }
 footer{
     text-align: right;
+}
+.fourohfour{
+    font-weight:900;
+    font-size: 600%;
+}
+.notFound{
+    font-weight: 100;
+    font-size: 400%;
 }
